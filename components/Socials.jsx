@@ -4,7 +4,7 @@ import {FaGithub, FaLinkedinIn, FaWhatsapp, FaTwitter, FaLifeRing, FaLinkedin} f
 const socials = [
     // {icon: <FaGithub />, path: 'https://github.com/'},
     {icon: <FaLinkedinIn />, path: 'https://www.linkedin.com/in/saravananandamuthu/'},
-    {icon: <FaWhatsapp />, path: ''},
+    // {icon: <FaWhatsapp />, path: ''},
     // {icon: <FaTwitter />, path: 'https://x.com/shravanantoone'}
 ]
 
